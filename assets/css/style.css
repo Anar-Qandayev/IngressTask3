@@ -1,0 +1,173 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+}
+.header-1{
+    background-color: #F6F7FA;
+    display: flex;
+    width: 100%;
+}
+.header-1  ul li a{
+    color: gray;
+}
+.nav{
+    padding: 0% 10%;
+    display: flex;
+}
+ul{
+    display: flex;
+}
+ ul li{
+    padding: 8px;
+}
+.header-2{
+    background-color: #CA1016;
+    width: 100%;
+}
+.header-2 nav{
+    display: flex;
+}
+.header-2 img{
+    height: 20px;
+}
+ul li{
+    list-style: none;
+    display: flex;
+}
+.contact{
+    display: flex;
+    padding-left: 130px;
+}
+.elan {
+    padding: 5px 290px;
+}
+.elan  button{
+    background-color: #7ED321;
+    color: white;
+    border:none;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 15px 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+input{
+    text-decoration: none;
+}
+.header-2 ul li{
+    list-style: none;
+}
+
+#features{
+    padding: 20px 200px;
+    background-color: #EBEDF3;
+}
+
+input{
+    height: 48px;
+    border-radius: 5px;
+    border-color: gray;align-items: center;
+    margin: 20px;
+}
+.inputs{
+    display: flex;
+    align-items: center;
+}
+.inp {
+    display: flex;
+}
+.i2 input{
+    width: 55px;
+
+}
+.i1 input{
+    width: 50px;
+    padding: 0;
+}
+.form{
+    display: flex;
+}
+.end-header{
+    display: flex;
+    align-items: center;
+}
+.end-header ul{
+    padding-left: 65vh;
+    align-items: center;
+
+}
+.end-header button{
+    padding: 20px 40px;
+}
+#vip-elanlar{
+    padding: 20px 200px;
+    
+}
+.vip{
+    display:flex;
+}
+#vip-elanlar img{
+    width: 200px;
+    height: 171px;
+    border-radius: 10px;
+}
+#eht-h-a{
+    padding: 20px 200px;
+}
+.hisseler{
+    display: flex;
+}
+#phones{
+    padding: 20px 200px;
+}
+.phones-in{
+    display: flex;
+}
+.phones-in figure{
+    border-radius: 5%;
+    background-color: white;
+}
+.phones-in figure img{
+    border-radius: 5% 5% 0 0;
+}
+footer{
+    background-color: #F1F3F7;
+}
+.footer-1{
+    display: flex;
+    align-items: center;
+    margin: 0% 15%;
+}
+.footer-1 ul{
+    padding-left: 45%;
+}
+.footer-2{
+    display: flex;
+    padding: 20px 200px;
+}
+.footer-2 ul{
+    display: block;
+}
+footer a{
+    color: gray;
+}
+.footer-3{
+    padding: 20px 200px;
+}
+.footer-4{
+    padding: 20px 200px;
+    display: flex;
+    background-color: #CA1016;
+    color: white;
+    font-size: 13px;
+}
+.footer-4 ul{
+    display: flex;
+    width: 100%;
+    padding-left: 20%;
+}
+body{
+    background-color:#EBEDF3;
+}
